@@ -48,15 +48,6 @@ subprojects {
     }
 }
 
-tasks.bootJar {
-    manifest {
-        attributes(
-                "Main-Class" to "com.example.demo.SpringBootDemoApplication"
-        )
-    }
-}
-
-
 tasks.test {
     useJUnitPlatform()
 
