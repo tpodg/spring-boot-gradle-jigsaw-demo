@@ -1,5 +1,5 @@
 ## Spring boot demo project with gradle (Kotlin) and java modules
-This is a very basic demo project which demonstrated how to use spring boot with gradle build configuration using multiple modules and Kotlin DSL. 
+This is a very basic demo project which demonstrates how to use spring boot with gradle build configuration using multiple modules and Kotlin DSL. 
 
 ## How-to
 * clone the project
