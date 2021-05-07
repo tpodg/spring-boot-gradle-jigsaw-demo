@@ -10,6 +10,6 @@ This is a very basic demo project which demonstrates how to use spring boot with
 Demo response will be accessible on: http://localhost:8080/module/test
 
 ## Technologies
-* Spring boot 2.1.1
-* Gradle 5.0 with Kotlin DSL
+* Spring boot 2.4.5
+* Gradle 6.8.3 with Kotlin DSL
 * Java 11 (with modules)
